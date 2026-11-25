@@ -1,0 +1,17 @@
+Quiz 1
+
+1. What is Python?
+
+answer: Python is a programming language that can execute your code.
+
+2. What is the purpose of print()?
+
+answer: print() is how you print text or string or even variables.
+
+3. What is the difference between a variable and a string?
+
+answer: variable a holder where you can store data while string is a specific type of data 
+
+4. What command checks your Python version?
+
+answer: python --version

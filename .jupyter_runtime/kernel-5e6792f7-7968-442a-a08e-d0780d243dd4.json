@@ -1,0 +1,13 @@
+{
+  "shell_port": 51591,
+  "iopub_port": 51592,
+  "stdin_port": 51593,
+  "control_port": 51595,
+  "hb_port": 51594,
+  "ip": "127.0.0.1",
+  "key": "a244dbb7-7533a5e13ba4c5b41306bff4",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "C:\\Users\\tosa\\Desktop\\working\\Python\\Untitled.ipynb"
+}
