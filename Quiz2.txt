@@ -1,0 +1,17 @@
+Quiz 2
+
+1. What is Jupyter Notebook?
+
+answer: Jupyter Notebook is a tool that allow us to write and execute Python code in individual cells.
+
+2. What is the difference between a Code cell and a Markdown cell?
+
+answer: Markdown cell Used to write notes, explanations, headings, and documentation. Code cell on the other hand it used to write and execute Python programming instructions.
+
+3. What does Shift + Enter do?
+
+answer: It runs your Markdown cell and Code cell.
+
+4. What is a Kernel?
+
+answer: Kernel runs python code 
