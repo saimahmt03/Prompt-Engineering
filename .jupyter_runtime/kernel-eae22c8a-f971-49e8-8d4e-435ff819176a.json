@@ -1,0 +1,13 @@
+{
+  "shell_port": 61653,
+  "iopub_port": 61654,
+  "stdin_port": 61655,
+  "control_port": 61657,
+  "hb_port": 61656,
+  "ip": "127.0.0.1",
+  "key": "66e380ea-29cd7c7fb7db2b2137972b59",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "C:\\Users\\tosa\\Desktop\\working\\Python\\Console 1"
+}
